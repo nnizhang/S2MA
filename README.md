@@ -27,7 +27,7 @@ Our saliency maps can be download from [[baidu pan](https://pan.baidu.com/s/1G-M
 We use some opensource codes from [Non-local_pytorch](https://github.com/AlexHex7/Non-local_pytorch), [denseASPP](https://github.com/DeepMotionAIResearch/DenseASPP). Thanks for the authors.
 
 ## Citing our work
-If you think our work is helful, please cite 
+If you think our work is helpful, please cite 
 ```
 @inproceedings{liu2020S2MA, 
   title={Learning Selective Self-Mutual Attention for RGB-D Saliency Detection}, 

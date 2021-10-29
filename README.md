@@ -33,6 +33,7 @@ If you think our work is helpful, please cite
   title={Learning Selective Self-Mutual Attention for RGB-D Saliency Detection}, 
   author={Liu, Nian and Zhang, Ni and Han, Junwei},
   booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={13756--13765},
   year={2020}
 }
 
